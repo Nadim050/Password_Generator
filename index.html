@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Password Generator</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="card">
+        <center><h1>PASSWORD GENERATOR</h1></center>
+       <center><p class="subtitle">Secure, local-only password generation.</p></center>
+        
+        <div class="input-wrapper">
+            <input type="text" id="password-input" placeholder="Enter password..." spellcheck="false" autocomplete="off">
+        </div>
+
+        <div class="meter-container">
+            <div class="meter-header">
+                <span>Security Level</span>
+                <span id="strength-label">Empty</span>
+            </div>
+
+            <div class="progress-bg">
+                <div id="progress-bar"></div>
+            </div>
+
+        </div>
+
+
+        <button class="btn" onclick="generateSecurePassword()">Generate New Password</button>
+
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
