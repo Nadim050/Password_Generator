@@ -4,10 +4,10 @@
 
  A Password Generator is a tool or program that automatically creates strong, random, and secure passwords..
  <br>it generates complex combinations of : <br/>
- <br>Uppercase letters (A–Z)<br/>
- <br>Lowercase letters (a–z)<br/>
- <br>Numbers (0–9)<br/>
- <br>Special characters (!, @, #, etc.).<br/>
+ <br>Uppercase letters (A–Z)/
+     Lowercase letters (a–z)/
+     Numbers (0–9)/
+     Special characters (!, @, #, etc.).<br/>
  
 <a href="http://127.0.0.1:5500/index.html"><strong>➥ Live Demo</strong></a>
 
