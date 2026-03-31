@@ -3,8 +3,9 @@
 <h2 align="center">PASSWORD GENERATOR</h2>
 
  A Password Generator is a tool or program that automatically creates strong, random, and secure passwords..
- <br>it generates complex combinations of : <br/>
- <br>Uppercase letters (A–Z)/
+ 
+ <br>it generates complex combinations of : 
+ Uppercase letters (A–Z)/
      Lowercase letters (a–z)/
      Numbers (0–9)/
      Special characters (!, @, #, etc.).<br/>
