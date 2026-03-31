@@ -15,8 +15,7 @@
 </div>
 
 ### Demo Screeshots
-![ScreenShot_3_30_2026_12_20_19_PM]("C:\Users\nadim\OneDrive\Documents\ScreenRecorder\Screenshots\2026-03\ScreenShot_3_31_2026_4_40_23_PM.png"<img width="1920" height="1020" alt="ScreenShot_3_31_2026_4_40_23_PM" src="https://github.com/user-attachments/assets/ff0add8a-e67d-47e6-95ba-97ece46cbe19" />
-)
+![ScreenShot_3_30_2026_12_20_19_PM]("<img width="1920" height="1020" alt="ScreenShot_3_31_2026_4_40_23_PM" src="https://github.com/user-attachments/assets/ff0add8a-e67d-47e6-95ba-97ece46cbe19" />")
 
 
 
